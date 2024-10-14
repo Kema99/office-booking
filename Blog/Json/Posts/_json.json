@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "url": "/blog/future-of-remote-work",
+        "imageSrc": "../../Resources/Blog/Posts/Borrame/_img.jpg",
+        "title": "The Future of Remote Work",
+        "subtitle": "How remote work is changing the corporate landscape",
+        "featured": true,
+        "publicationDate": "2024-01-10",
+        "sections": [101, 102],
+        "relatedPosts": [2, 3]
+    },
+    {
+        "id": 2,
+        "url": "/blog/future-of-remote-work",
+        "imageSrc": "../../Resources/Blog/Posts/Borrame/_img.jpg",
+        "title": "Top 10 Tools for Virtual Collaboration",
+        "subtitle": "Essential tools for effective teamwork",
+        "featured": true,
+        "publicationDate": "2024-01-12",
+        "sections": [103, 104],
+        "relatedPosts": [1, 4]
+    },
+    {
+        "id": 3,
+        "url": "/blog/future-of-remote-work",
+        "imageSrc": "../../Resources/Blog/Posts/Borrame/_img.jpg",
+        "title": "Office Ergonomics: A Guide",
+        "subtitle": "Creating a comfortable workspace",
+        "featured": false,
+        "publicationDate": "2024-02-05",
+        "sections": [105],
+        "relatedPosts": [1, 5]
+    },
+    {
+        "id": 4,
+        "url": "/blog/future-of-remote-work",
+        "imageSrc": "../../Resources/Blog/Posts/Borrame/_img.jpg",
+        "title": "Boosting Productivity with Flexible Hours",
+        "subtitle": "The benefits of flexible work schedules",
+        "featured": true,
+        "publicationDate": "2024-02-15",
+        "sections": [106, 107],
+        "relatedPosts": [2, 6]
+    },
+    {
+        "id": 5,
+        "url": "/blog/future-of-remote-work",
+        "imageSrc": "../../Resources/Blog/Posts/Borrame/_img.jpg",
+        "title": "Team Building Activities for Remote Teams",
+        "subtitle": "Fun and effective ways to connect remotely",
+        "featured": false,
+        "publicationDate": "2024-03-01",
+        "sections": [108],
+        "relatedPosts": [3, 4]
+    },
+    {
+        "id": 6,
+        "url": "/blog/future-of-remote-work",
+        "imageSrc": "../../Resources/Blog/Posts/Borrame/_img.jpg",
+        "title": "The Importance of Mental Health in the Workplace",
+        "subtitle": "Understanding and supporting mental wellness",
+        "featured": true,
+        "publicationDate": "2024-03-20",
+        "sections": [109],
+        "relatedPosts": [2, 5]
+    },
+    {
+        "id": 7,
+        "url": "/blog/future-of-remote-work",
+        "imageSrc": "../../Resources/Blog/Posts/Borrame/_img.jpg",
+        "title": "Effective Communication in a Virtual Environment",
+        "subtitle": "Strategies for clear communication online",
+        "featured": false,
+        "publicationDate": "2024-04-05",
+        "sections": [110],
+        "relatedPosts": [1, 6]
+    },
+    {
+        "id": 8,
+        "url": "/blog/future-of-remote-work",
+        "imageSrc": "../../Resources/Blog/Posts/Borrame/_img.jpg",
+        "title": "Balancing Work and Life in a Remote Setup",
+        "subtitle": "Finding harmony between work and personal life",
+        "featured": true,
+        "publicationDate": "2024-04-15",
+        "sections": [111, 112],
+        "relatedPosts": [3, 4]
+    },
+    {
+        "id": 9,
+        "url": "/blog/future-of-remote-work",
+        "imageSrc": "../../Resources/Blog/Posts/Borrame/_img.jpg",
+        "title": "Tips for Effective Virtual Meetings",
+        "subtitle": "How to make your online meetings more productive",
+        "featured": false,
+        "publicationDate": "2024-05-01",
+        "sections": [113],
+        "relatedPosts": [5, 7]
+    },
+    {
+        "id": 10,
+        "url": "/blog/future-of-remote-work",
+        "imageSrc": "../../Resources/Blog/Posts/Borrame/_img.jpg",
+        "title": "The Role of Technology in Modern Workspaces",
+        "subtitle": "How technology is reshaping our work environments",
+        "featured": true,
+        "publicationDate": "2024-05-15",
+        "sections": [114],
+        "relatedPosts": [6, 8]
+    }
+]

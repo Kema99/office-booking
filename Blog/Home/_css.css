@@ -1,0 +1,28 @@
+#featured-post-card-container a {
+    text-decoration: none;
+    color: inherit;
+    margin: 0;
+    padding: 0;
+    background: none;
+    border: none;
+}
+
+#featured-post-card-container a:hover {
+    color: #0d6efd;
+}
+
+@media (max-width: 896px), (max-width: 667px), (max-width: 575) {
+    header .container-fluid {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    header .navbar-nav {
+        display: flex;
+        justify-content: center;
+        list-style-type: none;
+        padding: 0;
+    }
+}
