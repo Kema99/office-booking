@@ -43,7 +43,7 @@ function loadHeaer(){
                 <a class="nav-link text-white" href="../AllPosts/_html.html">Posts</a>
             </li>
             <li class="nav-item mx-2">
-              <a class="nav-link text-white" href="../../Home/_html.html"><span>Office Booking</span></a>
+              <a class="nav-link text-white" href="../../_html.html"><span>Office Booking</span></a>
             </li>
           </ul>
         </div>
@@ -65,7 +65,7 @@ function loadFooter(){
                 </li>
 
                 <li class="nav-item mx-2">
-                    <a class="nav-link" href="../../Home/_html.html"><span>Office Booking</span></a>
+                    <a class="nav-link" href="../../_html.html"><span>Office Booking</span></a>
                 </li>
             </ul>
             <p>&copy; 2024 Office Booking. All rights reserved.</p>
