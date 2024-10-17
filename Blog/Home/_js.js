@@ -1,11 +1,12 @@
-import { loadPosts } from "../Json/GenericMethods/_js.js"
+import { loadJson } from "../Json/GenericMethods/_js.js"
 import * as BlogGenerics from "../GenericMethods/_js.js"
 
 let posts;
 
 window.onload = async () => {
-    posts = await loadPosts()
+    posts = await loadJson('../Json/Posts/_json.json')
     BlogGenerics.loadFeaturedPostCards(posts)
+    BlogGenerics.funcionalityLinks()
 }
 
 document.getElementById("find-button").onclick = () => {
@@ -15,5 +16,5 @@ document.getElementById("find-button").onclick = () => {
     );
 
     localStorage.setItem("filtredPosts", JSON.stringify(filteredPosts))
-    window.location.href = "../Posts/_html.html"
+    window.location.href = "../Posts/AllPosts/_html.html"
 }

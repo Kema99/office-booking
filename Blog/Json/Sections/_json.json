@@ -1,0 +1,118 @@
+[
+    {
+        "id": 1,
+        "idPost": 10,
+        "title": "What is Hot Desking?",
+        "text": "Hot desking is an office practice where employees do not have a fixed desk but can choose an available space each day. This approach promotes a culture of mobility and collaboration, allowing workers to connect with different colleagues and reduce feelings of isolation. By not being tied to a specific place, employees can select a work environment that suits their daily needs.",
+        "imagePath": null,
+        "highlightedWords": ["hot desking", "culture of mobility", "collaboration"],
+        "subsections": []
+    },
+    {
+        "id": 2,
+        "idPost": 10,
+        "title": "Benefits of Hot Desking",
+        "text": null,
+        "imagePath": null,
+        "highlightedWords": [],
+        "subsections": [
+            {
+                "title": "1. Space Optimization",
+                "text": "One of the main advantages of hot desking is the optimization of office space. Companies can reduce costs by using less physical space, resulting in lower rental and maintenance expenses. By sharing desks, the use of work areas is maximized, allowing more employees to fit into a smaller space.",
+
+                "highlightedWords": ["hot desking", "optimization of office space", "cost reduction"]
+            },
+            {
+                "title": "2. Flexibility and Mobility",
+                "text": "Hot desking provides employees with unprecedented flexibility. They can choose to work in different areas of the office based on their task of the day or the type of work they need to perform. This not only enhances job satisfaction but also allows employees to adapt to different working styles.",
+
+                "highlightedWords": ["hot desking", "flexibility", "job satisfaction", "working styles"]
+            },
+            {
+                "title": "3. Encouragement of Collaboration",
+                "text": "It encourages employees to interact and collaborate with different team members. By sharing spaces, more opportunities for communication and creativity are created, often leading to increased productivity and innovation in the workplace.",
+
+                "highlightedWords": ["collaboration", "communication", "creativity", "productivity", "innovation"]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "idPost": 10,
+        "title": "Challenges of Hot Desking",
+        "text": null,
+        "imagePath": null,
+        "highlightedWords": [],
+        "subsections": [
+            {
+                "title": "1. Lack of Personalization",
+                "text": "One of the challenges of hot desking is the lack of personalization in the workspace. Without a personal desk, some employees may feel they do not have a place to belong. Companies must work to find a balance between mobility and personalization, allowing employees to have personal items in their spaces.",
+
+                "highlightedWords": ["hot desking", "lack of personalization", "workspace", "belonging"]
+            },
+            {
+                "title": "2. Logistics and Organization",
+                "text": "The implementation of hot desking requires careful planning. It is essential to establish a system that allows employees to reserve spaces and resources, as well as good organization of the office to facilitate mobility and access to necessary tools.",
+
+                "highlightedWords": ["hot desking", "careful planning", "system", "organization", "mobility"]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "idPost": 1,
+        "title": "What is Hot Desking?",
+        "text": "Hot desking is an office practice where employees do not have a fixed desk but can choose an available space each day. This approach promotes a culture of mobility and collaboration, allowing workers to connect with different colleagues and reduce feelings of isolation. By not being tied to a specific place, employees can select a work environment that suits their daily needs.",
+        "imagePath": null,
+        "highlightedWords": ["hot desking", "culture of mobility", "collaboration"],
+        "subsections": []
+    },
+    {
+        "id": 2,
+        "idPost": 1,
+        "title": "Benefits of Hot Desking",
+        "text": null,
+        "imagePath": null,
+        "highlightedWords": [],
+        "subsections": [
+            {
+                "title": "1. Space Optimization",
+                "text": "One of the main advantages of hot desking is the optimization of office space. Companies can reduce costs by using less physical space, resulting in lower rental and maintenance expenses. By sharing desks, the use of work areas is maximized, allowing more employees to fit into a smaller space.",
+
+                "highlightedWords": ["hot desking", "optimization of office space", "cost reduction"]
+            },
+            {
+                "title": "2. Flexibility and Mobility",
+                "text": "Hot desking provides employees with unprecedented flexibility. They can choose to work in different areas of the office based on their task of the day or the type of work they need to perform. This not only enhances job satisfaction but also allows employees to adapt to different working styles.",
+
+                "highlightedWords": ["hot desking", "flexibility", "job satisfaction", "working styles"]
+            },
+            {
+                "title": "3. Encouragement of Collaboration",
+                "text": "It encourages employees to interact and collaborate with different team members. By sharing spaces, more opportunities for communication and creativity are created, often leading to increased productivity and innovation in the workplace.",
+                "highlightedWords": ["collaboration", "communication", "creativity", "productivity", "innovation"]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "idPost": 1,
+        "title": "Challenges of Hot Desking",
+        "text": null,
+        "imagePath": null,
+        "highlightedWords": [],
+        "subsections": [
+            {
+                "title": "1. Lack of Personalization",
+                "text": "One of the challenges of hot desking is the lack of personalization in the workspace. Without a personal desk, some employees may feel they do not have a place to belong. Companies must work to find a balance between mobility and personalization, allowing employees to have personal items in their spaces.",
+                "highlightedWords": ["hot desking", "lack of personalization", "workspace", "belonging"]
+            },
+            {
+                "title": "2. Logistics and Organization",
+                "text": "The implementation of hot desking requires careful planning. It is essential to establish a system that allows employees to reserve spaces and resources, as well as good organization of the office to facilitate mobility and access to necessary tools.",
+
+                "highlightedWords": ["hot desking", "careful planning", "system", "organization", "mobility"]
+            }
+        ]
+    }
+]

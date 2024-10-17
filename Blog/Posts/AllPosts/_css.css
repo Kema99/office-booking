@@ -12,6 +12,7 @@ article a:hover {
 }
 
 @media (max-width: 896px), (max-width: 667px), (max-width: 575) {
+
     header .container-fluid {
         display: flex;
         flex-direction: column;

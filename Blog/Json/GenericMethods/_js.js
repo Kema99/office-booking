@@ -1,6 +1,6 @@
-export async function loadPosts() {
+export async function loadJson(fileSrc) {
     try {
-        const response = await fetch('../Json/Posts/_json.json');
+        const response = await fetch(fileSrc);
         if (!response.ok) {
             throw new Error('Network response was not ok');
         }
