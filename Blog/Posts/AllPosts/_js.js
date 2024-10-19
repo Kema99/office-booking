@@ -14,8 +14,8 @@ window.onload = async () => {
 
     let filtredPosts = JSON.parse(localStorage.getItem("filtredPosts"))
     if (filtredPosts != null){
-        let initialPosts = posts.slice(0, 30)
-        BlogGenerics.loadPostCards(initialPosts);
+        filtredPosts = filtredPosts.slice(0, 30)
+        BlogGenerics.loadPostCards(filtredPosts);
 
         let pagination = document.getElementById("pagination")
         let buttons = pagination.getElementsByTagName("button")
