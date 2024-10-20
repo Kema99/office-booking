@@ -17,6 +17,11 @@
     transform: translateY(-10px);
 }
 
+#reviews .card-img-top{
+    width: 414px;
+    height: 414px;
+}
+
 #reviews .card-body {
     display: flex;
     flex-direction: column;
@@ -41,6 +46,11 @@
         justify-content: center;
         list-style-type: none;
         padding: 0;
+    }
+
+    #reviews .card-img-top{
+        width: auto;
+        height: auto;
     }
 
     #reviews .card-custom {
