@@ -167,9 +167,10 @@ export async function loadPostMain () {
 
     main.innerHTML += `<div id="featured-post-card-container" class="container"><p>a</p></div>`
 
-    post.shift()
+    let posts = await loadJson("../../Json/Posts/_json.json")
+    let relatedPostsFiltred = posts.filter(postAux => post[0].relatedPosts.includes(postAux.id));
 
-    loadPostCards(post)
+    loadPostCards(relatedPostsFiltred)
     funcionalityLinks ()
 }
 
