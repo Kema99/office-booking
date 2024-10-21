@@ -8,5 +8,15 @@
         "featured": true,
         "publicationDate": "2024-01-10",
         "relatedPosts": [1, 3]
+    },
+    {
+        "id": 2,
+        "url": "/Blog/Posts/CoworkingSpace/_html.html",
+        "imageSrc": "/Resources/Blog/Posts/Borrame/coworkingspace.jpg",
+        "title": "What is a Coworking Space?",
+        "subtitle": "Coworking spaces have gained tremendous popularity in recent years, revolutionizing the way we work and collaborate. In today’s world, where remote work, freelancing, and startups are thriving, coworking spaces provide a flexible and cost-effective alternative to traditional office spaces. If you&apos;re wondering what exactly a coworking space is and why it&apos;s so appealing, this article will explain everything.",
+        "featured": true,
+        "publicationDate": "2024-21-10",
+        "relatedPosts": [1]
     }
 ]

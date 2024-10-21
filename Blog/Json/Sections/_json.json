@@ -1,65 +1,6 @@
 [
     {
         "id": 1,
-        "idPost": 10,
-        "title": "What is Hot Desking?",
-        "text": "Hot desking is an office practice where employees do not have a fixed desk but can choose an available space each day. This approach promotes a culture of mobility and collaboration, allowing workers to connect with different colleagues and reduce feelings of isolation. By not being tied to a specific place, employees can select a work environment that suits their daily needs.",
-        "imagePath": null,
-        "highlightedWords": ["hot desking", "culture of mobility", "collaboration"],
-        "subsections": []
-    },
-    {
-        "id": 2,
-        "idPost": 10,
-        "title": "Benefits of Hot Desking",
-        "text": null,
-        "imagePath": null,
-        "highlightedWords": [],
-        "subsections": [
-            {
-                "title": "1. Space Optimization",
-                "text": "One of the main advantages of hot desking is the optimization of office space. Companies can reduce costs by using less physical space, resulting in lower rental and maintenance expenses. By sharing desks, the use of work areas is maximized, allowing more employees to fit into a smaller space.",
-
-                "highlightedWords": ["hot desking", "optimization of office space", "cost reduction"]
-            },
-            {
-                "title": "2. Flexibility and Mobility",
-                "text": "Hot desking provides employees with unprecedented flexibility. They can choose to work in different areas of the office based on their task of the day or the type of work they need to perform. This not only enhances job satisfaction but also allows employees to adapt to different working styles.",
-
-                "highlightedWords": ["hot desking", "flexibility", "job satisfaction", "working styles"]
-            },
-            {
-                "title": "3. Encouragement of Collaboration",
-                "text": "It encourages employees to interact and collaborate with different team members. By sharing spaces, more opportunities for communication and creativity are created, often leading to increased productivity and innovation in the workplace.",
-
-                "highlightedWords": ["collaboration", "communication", "creativity", "productivity", "innovation"]
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "idPost": 10,
-        "title": "Challenges of Hot Desking",
-        "text": null,
-        "imagePath": null,
-        "highlightedWords": [],
-        "subsections": [
-            {
-                "title": "1. Lack of Personalization",
-                "text": "One of the challenges of hot desking is the lack of personalization in the workspace. Without a personal desk, some employees may feel they do not have a place to belong. Companies must work to find a balance between mobility and personalization, allowing employees to have personal items in their spaces.",
-
-                "highlightedWords": ["hot desking", "lack of personalization", "workspace", "belonging"]
-            },
-            {
-                "title": "2. Logistics and Organization",
-                "text": "The implementation of hot desking requires careful planning. It is essential to establish a system that allows employees to reserve spaces and resources, as well as good organization of the office to facilitate mobility and access to necessary tools.",
-
-                "highlightedWords": ["hot desking", "careful planning", "system", "organization", "mobility"]
-            }
-        ]
-    },
-    {
-        "id": 1,
         "idPost": 1,
         "title": "What is Hot Desking?",
         "text": "Hot desking is an office practice where employees do not have a fixed desk but can choose an available space each day. This approach promotes a culture of mobility and collaboration, allowing workers to connect with different colleagues and reduce feelings of isolation. By not being tied to a specific place, employees can select a work environment that suits their daily needs.",
@@ -114,5 +55,173 @@
                 "highlightedWords": ["hot desking", "careful planning", "system", "organization", "mobility"]
             }
         ]
+    },
+    {
+        "id": 4,
+        "idPost": 2,
+        "title": "What is a Coworking Space?",
+        "text": "A coworking space is a shared workspace where professionals, freelancers, entrepreneurs, and small businesses can work together in a collaborative, open environment. Unlike a traditional office, where space is dedicated to a single company, coworking spaces are used by various individuals or companies at the same time.\nThese spaces offer a wide range of services that facilitate productivity, such as individual desks, meeting rooms, high-speed internet, printers, cafes, and more. They foster creativity, networking, and collaboration between members in a flexible setting.",
+        "imagePath": null,
+        "highlightedWords": ["coworking space", "shared workspace", "freelancers", "entrepreneurs", "small businesses", "productivity", "meeting rooms", "creativity, networking", "high-speed internet"],
+        "subsections": []
+    },
+    {
+        "id": 5,
+        "idPost": 2,
+        "title": "Types of People Who Use Coworking Spaces",
+        "text": null,
+        "imagePath": null,
+        "highlightedWords": [],
+        "subsections": [
+            {
+                "title": "1. Freelancers",
+                "text": "Independent professionals looking for a productive, professional space outside their homes.",
+
+                "highlightedWords": []
+            },
+            {
+                "title": "2. Startups",
+                "text": "New businesses that require affordable and flexible space to kickstart their operations.",
+
+                "highlightedWords": []
+            },
+            {
+                "title": "3. Remote Workers",
+                "text": "Employees of companies who can work remotely but prefer to work in a social and productive environment rather than at home.",
+                "highlightedWords": []
+            },
+            {
+                "title": "4. Small Businesses",
+                "text": "Companies that don’t need a traditional office but occasionally need a space for team collaboration or client meetings.",
+
+                "highlightedWords": []
+            },
+            {
+                "title": "5. Digital Nomads",
+                "text": "Remote workers who travel the world and need temporary workspaces that are well-equipped for their tasks.",
+
+                "highlightedWords": []
+            },
+            {
+                "title": "6. Tech Entrepreneurs",
+                "text": "Entrepreneurs in the tech industry who benefit from networking and collaboration in a coworking office setting.",
+
+                "highlightedWords": []
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "idPost": 2,
+        "title": "Benefits of a Coworking Space",
+        "text": null,
+        "imagePath": null,
+        "highlightedWords": [],
+        "subsections": [
+            {
+                "title": "1. Flexibility",
+                "text": "Coworking spaces offer flexible membership plans, allowing you to rent space by the hour, day, week, or month based on your needs. This flexibility is ideal for freelancers, startup founders, and remote workers who don’t need a full-time office.",
+                "highlightedWords": ["startup founders"]
+            },
+            {
+                "title": "2. Lower Costs",
+                "text": "By sharing space and resources, maintenance costs are significantly reduced. This is especially advantageous for startups, freelancers, and small businesses as they can enjoy fully equipped offices without high rental expenses.",
+
+                "highlightedWords": ["maintenance costs", "small businesses"]
+            },
+            {
+                "title": "3. Networking and Collaboration",
+                "text": "One of the main benefits of coworking spaces is the opportunity to engage in networking with other professionals. Sharing a space with people from various industries encourages collaboration, idea sharing, and the chance to establish beneficial professional relationships, especially for entrepreneurs.",
+
+                "highlightedWords": ["networking ", "collaboration", "entrepreneurs"]
+            },
+            {
+                "title": "4. Professional Environment",
+                "text": "Unlike working from home, coworking spaces provide a professional atmosphere conducive to focused work. This can enhance productivity and help maintain a healthier balance between personal and professional life.",
+
+                "highlightedWords": ["professional atmosphere"]
+            },
+            {
+                "title": "5. Infrastructure and Services",
+                "text": "Coworking spaces come equipped with everything necessary to work efficiently, such as high-speed internet, dedicated workstations, meeting rooms, cafes, printers, and more. Efficient management allows users to focus exclusively on their work without worrying about administrative tasks.",
+
+                "highlightedWords": ["high-speed internet", "meeting room", "cafes"]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "idPost": 2,
+        "title": "Disadvantages of Coworking Spaces",
+        "text": null,
+        "imagePath": null,
+        "highlightedWords": [],
+        "subsections": [
+            {
+                "title": "1. Lack of Privacy",
+                "text": "Sharing space with others can be a challenge if your work requires confidentiality.",
+
+                "highlightedWords": []
+            },
+            {
+                "title": "2. Distractions",
+                "text": "Despite being designed for productivity, the presence of many people can be distracting for some.",
+
+                "highlightedWords": []
+            },
+            {
+                "title": "3. Limited Availability",
+                "text": "During peak times, it can be hard to reserve meeting rooms or find a suitable spot to work.",
+                "highlightedWords": []
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "idPost": 2,
+        "title": "How to Choose the Right Coworking Space",
+        "text": null,
+        "imagePath": null,
+        "highlightedWords": [],
+        "subsections": [
+            {
+                "title": "1. Location",
+                "text": "Location is essential for convenience and productivity. Opt for a space close to your home or clients, with access to key amenities like restaurants and public transportation.",
+                "highlightedWords": ["restaurants", "public transportation"]
+            },
+            {
+                "title": "2. Services and Amenities",
+                "text": "Ensure the space provides the services you need, such as private meeting rooms, reliable internet, printer access, relaxation areas, and possibly a coworking café for breaks.",
+
+                "highlightedWords": ["private meeting rooms", "coworking café"]
+            },
+            {
+                "title": "3. Community and Culture",
+                "text": "The coworking space’s community and culture can greatly impact your work experience. Some spaces focus more on collaboration and networking, while others may be quieter and centered around individual productivity.",
+
+                "highlightedWords": ["collaboration", "networking"]
+            },
+            {
+                "title": "4. Costs",
+                "text": "Evaluate the different pricing plans available and make sure they fit your budget. Some coworking spaces offer flexible memberships, allowing you to pay for the time you need without long-term commitments.",
+
+                "highlightedWords": []
+            },
+            {
+                "title": "5. Space Availabilitys",
+                "text": "If you need a meeting room or a dedicated desk every day, check the coworking space’s availability during peak hours to ensure they can accommodate your needs.",
+
+                "highlightedWords": []
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "idPost": 2,
+        "title": "The Future of Coworking Spaces",
+        "text": "The future of coworking spaces looks bright as more companies embrace remote work and flexible office arrangements. As demand for these spaces continues to grow, coworking spaces will likely evolve to meet the needs of a changing workforce. Expected developments include the expansion of coworking spaces into smaller cities and increased specialization in industries like technology, design, and legal services.",
+        "imagePath": null,
+        "highlightedWords": ["remote work", "flexible office arrangements", "technology", "design", "legal services"],
+        "subsections": []
     }
 ]
