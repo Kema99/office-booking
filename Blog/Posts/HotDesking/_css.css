@@ -19,6 +19,17 @@ article a:hover {
     color: #0d6efd;
 }
 
+.img-container img{
+    max-height: 634.062px;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+.card-custom img {
+    max-height: 405.391px;
+    object-fit: cover;
+}
+
 @media (max-width: 896px), (max-width: 667px), (max-width: 575) {
     .custom-container {
         max-width: 90%;
@@ -36,5 +47,11 @@ article a:hover {
         justify-content: center;
         list-style-type: none;
         padding: 0;
+    }
+
+    .img-container img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 }

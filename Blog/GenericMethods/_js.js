@@ -10,7 +10,7 @@ function loadFeaturedPostCard(postCardsContainer, post, relatedPosts){
                 <img class="card-img-top" src="${post.imageSrc}"
                     alt="Post Title Image" />
                 <div class="card-body">
-                    <h3 class="card-title">${post.title}</h3>
+                    <h2 class="card-title">${post.title}</h2>
                     <p class="card-subtitle text-muted">${post.subtitle}</p>
                     <footer class="blockquote-footer mt-2">
                         Published on:
@@ -34,7 +34,7 @@ function loadHeaer(){
     <header class="bg-primary text-white text-center">
       <nav class="navbar bg-body-primary text-white px-4">
         <div class="container-fluid">
-          <h1 class="h3">Office Booking</h1>
+          <p class="h3">Office Booking</p>
           <ul class="navbar-nav flex-row">
             <li class="nav-item mx-2">
               <a class="nav-link text-white" href="../../Home/_html.html">Blog Home</a>
@@ -82,19 +82,19 @@ function loadSection (section){
     let sectionTextHighlighted = highlightWords(section.text, section.highlightedWords)
         article.innerHTML += ` 
         <section class="mb-4">
-            <h3 class="mb-4">${section.title}</h3>
+            <h2 class="mb-4">${section.title}</h2>
             <p>${sectionTextHighlighted}</p>
         </section>
         <hr>`
     }else{
         let articleSubsections = `<section class="mb-4">
-        <h3 class="mb-4">${section.title}</h3>
+        <h2 class="mb-4">${section.title}</h2>
         <div class="row">`;
         for(let subsection of section.subsections){
             let subsectionTextHighlighted = highlightWords(subsection.text, subsection.highlightedWords)
         articleSubsections += `
             <div class="col-md-12 mb-3">
-                <h4>${subsection.title}</h4>
+                <h3>${subsection.title}</h3>
                 <p>${subsectionTextHighlighted}</p>
             </div>`
         }
@@ -152,10 +152,10 @@ export async function loadPostMain () {
 
     main.innerHTML += `
     <article id="article">
-        <h2 class="mb-4">${post[0].title}</h2>
+        <h1 class="mb-4">${post[0].title}</h1>
 
         <section class="mb-4">
-            <h3>Introduction</h3>
+            <h2>Introduction</h2>
             <p>${post[0].subtitle}</p>
             ${image}
         </section>

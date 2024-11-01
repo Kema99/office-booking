@@ -15,6 +15,11 @@ article a:hover {
     width: 45%;
 }
 
+.card-custom img {
+    max-height: 569.109px;
+    object-fit: cover;
+}
+
 @media (max-width: 896px), (max-width: 667px), (max-width: 575) {
     header .container-fluid {
         display: flex;
